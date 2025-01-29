@@ -1,3 +1,4 @@
+# gacha_system/core/gacha_core.py
 import random
 
 class GachaCore:
